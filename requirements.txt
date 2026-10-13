@@ -1,0 +1,7 @@
+pandas
+pillow
+pytesseract
+scikit-learn
+python-dateutil
+fastapi
+uvicorn

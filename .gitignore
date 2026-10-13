@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.zip
+.DS_Store
+.env
+.venv/
+venv/
+metadata_extraction_submission.zip
